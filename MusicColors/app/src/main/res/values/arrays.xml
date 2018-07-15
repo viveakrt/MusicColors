@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ld_activityScreenTitles">
+        <item>Nav1</item>
+        <item>Nav2</item>
+        <item>Nav3</item>
+        <item>Nav4</item>
+
+        <item />
+        <item>Exit</item>
+    </string-array>
+
+    <array name="ld_activityScreenIcons">
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+        <item>0</item>
+        <item>@mipmap/ic_launcher</item>
+    </array>
+
+</resources>
